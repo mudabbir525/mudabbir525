@@ -2,28 +2,50 @@
 
 <h5 align="center">"A web developer passionate about crafting dynamic and user-friendly web applications."</h5>
 
+---
+
 ## 🚀 About Me
 
 - **🌍 Location**: Hyderabad
-- **🔧 Technologies & Tools**: HTML, CSS, JavaScript, MERN Stack (MongoDB, Express.js, React, Node.js), TensorFlow.js, Three.js, Bootstrap, and more.
+- **🔧 Technologies & Tools**: 
+  ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
+  ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
+  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+  ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
+  ![Express.js](https://img.shields.io/badge/Express.js-404D59?style=flat-square&logo=express&logoColor=white)
+  ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+  ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white)
+  ![TensorFlow.js](https://img.shields.io/badge/TensorFlow.js-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
+  ![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=three.js&logoColor=white)
+  ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 - **💼 Currently Working On**: Fullstack Web Development, Machine Learning, and Data Preprocessing
 - **📫 How to Reach Me**: sohailmudabbir@gmail.com or [LinkedIn](https://www.linkedin.com/in/mohammed-mudabbir-pasha/)
 
+---
+
 ## 🔥 GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=mudabbir525&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=mudabbir525&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
+  <img src="https://streak-stats.demolab.com?user=mudabbir525&theme=radical" alt="GitHub Streak" />
+</div>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=mudabbir525)](https://git.io/streak-stats)
+---
 
 ## 📈 My GitHub History
 
-- **Top Languages**:<br>
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mudabbir525&layout=compact&theme=radical)
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudabbir525&layout=compact&theme=radical" alt="Top Languages" />
+</div>
+
+---
 
 ## 👨‍💻 Contributions
 
 - **[Open Source Contributions](https://github.com/mudabbir525?tab=repositories)**: Check out my contributions to various open-source projects.
 - **[My GitHub Activity](https://github.com/mudabbir525?tab=activity)**: View my latest activities and contributions.
+
+---
 
 ## 🌟 Highlights
 
@@ -31,21 +53,25 @@
 - **Machine Learning Projects**: Worked on various projects involving TensorFlow.js and other ML frameworks.
 - **Design Enthusiast**: Passionate about creating visually appealing and user-friendly interfaces.
 
+---
+
 ## 📚 Learning & Growth
 
 - **Currently Learning**: Advanced Full-stack Development and Machine Learning techniques.
 - **Aspirations**: To become a highly skilled Web Developer and Machine Learning Engineer.
 
+---
+
 ## 🎉 Let's Connect!
 
 Feel free to explore my repositories, follow my projects, or get in touch if you want to collaborate on something interesting. I'm always open to new opportunities and ideas!
 
-<p align="center">
+<div align="center">
   <a href="https://www.linkedin.com/in/mohammed-mudabbir-pasha/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="32"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <span style="margin: 0 10px;"></span>
   <a href="mailto:sohailmudabbir@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" width="120" height="32"/>
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-</p>
+</div>
