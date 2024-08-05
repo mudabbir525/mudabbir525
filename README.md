@@ -1,4 +1,4 @@
-<h1 align="center">Hello, I'm Sohail 👋</h1> 
+<h1 align="center">Hello, I'm Mudabbir 👋</h1> 
 
 <h5 align="center">"A web developer passionate about crafting dynamic and user-friendly web applications."</h5>
 
@@ -6,8 +6,8 @@
 
 - **🌍 Location**: Hyderabad
 - **🔧 Technologies & Tools**: HTML, CSS, JavaScript, TensorFlow.js, Three.js, Bootstrap, and more.
-- **💼 Currently Working On**: Fullstack Development
-- **📫 How to Reach Me**: siddeshwarreddy616@gmail.com or https://www.linkedin.com/in/siddeshwar-reddy-337b16314/
+- **💼 Currently Working On**: Fullstack Web Development, Machine Learning And data preprocessing
+- **📫 How to Reach Me**: sohailmudabbir@gmail.com or https://www.linkedin.com/in/mohammed-mudabbir-pasha/
 
 ## 🔥 GitHub Stats
 
@@ -19,11 +19,6 @@
 
 - **Top Languages**:<br>
  ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mudabbir525&layout=compact&theme=radical)
-## 📝 Recent Projects
-
-- **[Clothing Detection](https://github.com/mudabbir525/Clothing-Detection)**: A web-based application for clothing detection using TensorFlow.js and MobileNet.
-- **[3D Model Viewer](https://github.com/mudabbir525/3D-model)**: An interactive 3D model viewer using Three.js for clothing and human model adjustments.
-
 ## 👨‍💻 Contributions
 
 - **[Open Source Contributions](https://github.com/mudabbir525?tab=repositories)**: Check out my contributions to various open-source projects.
@@ -46,15 +41,13 @@
 Feel free to explore my repositories, follow my projects, or get in touch if you want to collaborate on something interesting. I'm always open to new opportunities and ideas!
 
 <p>
-  <a href="https://www.linkedin.com/in/siddeshwar-reddy-337b16314/">
+  <a href="https://www.linkedin.com/in/mohammed-mudabbir-pasha/">
     <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="102" height="32"/>
   </a>
   <span style="margin: 0 10px;"></span>
-  <a href="mailto:siddeshwarreddy616@gmail.com">
+  <a href="mailto:sohailmudabbir@gmail.com">
     <img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" width="102" height="32"/>
   </a>
   <span style="margin: 0 10px;"></span>
-  <a href="https://www.instagram.com/siddu7_/">
-    <img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=flat&logo=instagram&logoColor=white" alt="Instagram" width="102" height="32"/>
-  </a>
+
 </p>
