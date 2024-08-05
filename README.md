@@ -1,12 +1,13 @@
 <h1 align="center">Hello, I'm Mudabbir 👋</h1>
 
-<h5 align="center">"A web developer passionate about crafting dynamic and user-friendly web applications."</h5>
+<h5 align="center">"A Full Stack Web Developer passionate about crafting dynamic and user-friendly web applications."</h5>
 
 ---
 
 ## 🚀 About Me
 
 - **🌍 Location**: Hyderabad
+- **🎓 Education**: Graduate from SNIST
 - **🔧 Technologies & Tools**: 
   ![HTML](https://img.shields.io/badge/HTML-E34F26?style=flat-square&logo=html5&logoColor=white)
   ![CSS](https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white)
@@ -20,6 +21,8 @@
   ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=flat-square&logo=bootstrap&logoColor=white)
 - **💼 Currently Working On**: Fullstack Web Development, Machine Learning, and Data Preprocessing
 - **📫 How to Reach Me**: sohailmudabbir@gmail.com or [LinkedIn](https://www.linkedin.com/in/mohammed-mudabbir-pasha/)
+- **🌱 Eager to Learn**: Always seeking to learn new technologies and improve my skills
+- **🤝 Contributions**: Actively contributing to open-source projects
 
 ---
 
@@ -52,6 +55,7 @@
 - **Full-stack Development**: Experience in building both front-end and back-end applications with the MERN stack.
 - **Machine Learning Projects**: Worked on various projects involving TensorFlow.js and other ML frameworks.
 - **Design Enthusiast**: Passionate about creating visually appealing and user-friendly interfaces.
+- **Collaborative Spirit**: Enjoy working in teams and sharing knowledge.
 
 ---
 
@@ -59,6 +63,7 @@
 
 - **Currently Learning**: Advanced Full-stack Development and Machine Learning techniques.
 - **Aspirations**: To become a highly skilled Web Developer and Machine Learning Engineer.
+- **Goals**: To contribute to impactful projects and continuously enhance my skill set.
 
 ---
 
