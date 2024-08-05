@@ -1,13 +1,13 @@
-<h1 align="center">Hello, I'm Mudabbir 👋</h1> 
+<h1 align="center">Hello, I'm Mudabbir 👋</h1>
 
 <h5 align="center">"A web developer passionate about crafting dynamic and user-friendly web applications."</h5>
 
 ## 🚀 About Me
 
 - **🌍 Location**: Hyderabad
-- **🔧 Technologies & Tools**: HTML, CSS, JavaScript, TensorFlow.js, Three.js, Bootstrap, and more.
-- **💼 Currently Working On**: Fullstack Web Development, Machine Learning And data preprocessing
-- **📫 How to Reach Me**: sohailmudabbir@gmail.com or https://www.linkedin.com/in/mohammed-mudabbir-pasha/
+- **🔧 Technologies & Tools**: HTML, CSS, JavaScript, MERN Stack (MongoDB, Express.js, React, Node.js), TensorFlow.js, Three.js, Bootstrap, and more.
+- **💼 Currently Working On**: Fullstack Web Development, Machine Learning, and Data Preprocessing
+- **📫 How to Reach Me**: sohailmudabbir@gmail.com or [LinkedIn](https://www.linkedin.com/in/mohammed-mudabbir-pasha/)
 
 ## 🔥 GitHub Stats
 
@@ -18,7 +18,8 @@
 ## 📈 My GitHub History
 
 - **Top Languages**:<br>
- ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mudabbir525&layout=compact&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=mudabbir525&layout=compact&theme=radical)
+
 ## 👨‍💻 Contributions
 
 - **[Open Source Contributions](https://github.com/mudabbir525?tab=repositories)**: Check out my contributions to various open-source projects.
@@ -26,28 +27,25 @@
 
 ## 🌟 Highlights
 
-- **Full-stack Development**: Experience in building both front-end and back-end applications.
+- **Full-stack Development**: Experience in building both front-end and back-end applications with the MERN stack.
 - **Machine Learning Projects**: Worked on various projects involving TensorFlow.js and other ML frameworks.
 - **Design Enthusiast**: Passionate about creating visually appealing and user-friendly interfaces.
 
 ## 📚 Learning & Growth
 
-- **Currently Learning**: Full-stack Development
-- **Aspirations**: Becoming a skilled Web Developer
-
+- **Currently Learning**: Advanced Full-stack Development and Machine Learning techniques.
+- **Aspirations**: To become a highly skilled Web Developer and Machine Learning Engineer.
 
 ## 🎉 Let's Connect!
 
 Feel free to explore my repositories, follow my projects, or get in touch if you want to collaborate on something interesting. I'm always open to new opportunities and ideas!
 
-<p>
+<p align="center">
   <a href="https://www.linkedin.com/in/mohammed-mudabbir-pasha/">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="102" height="32"/>
+    <img src="https://img.shields.io/badge/-LinkedIn-%230A66C2?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn" width="120" height="32"/>
   </a>
   <span style="margin: 0 10px;"></span>
   <a href="mailto:sohailmudabbir@gmail.com">
-    <img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" width="102" height="32"/>
+    <img src="https://img.shields.io/badge/-Email-%23D14836?style=flat&logo=gmail&logoColor=white" alt="Email" width="120" height="32"/>
   </a>
-  <span style="margin: 0 10px;"></span>
-
 </p>
