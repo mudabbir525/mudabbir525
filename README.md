@@ -1,8 +1,9 @@
 
-  <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400"> </div>
-
+  <div align="center"> <img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="400">
+  
 <br>
 <img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=700&size=55&pause=100&color=FFcc4d&width=870&height=95&lines=Hello%2C+I'm+MUDABBIR+%F0%9F%91%8B" alt="Hey typed effect"/>
+</div>
 
 
 <h5 align="center">"A Full Stack Web Developer passionate about crafting dynamic and user-friendly web applications."</h5>
