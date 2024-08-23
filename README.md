@@ -36,7 +36,9 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mudabbir525&show_icons=true&hide_title=true&hide=prs&count_private=true&include_all_commits=true&theme=radical" alt="GitHub Stats" />
-  <img src="https://streak-stats.demolab.com?user=mudabbir525&theme=radical" alt="GitHub Streak" />
+  </div>
+  <div align="center">
+  <img src="https://streak-stats.demolab.com?user=Siddu7077&theme=radical" alt="GitHub Streak" />
 </div>
 
 ---
