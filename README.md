@@ -4,7 +4,9 @@
   <br>
   
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fredoka&weight=700&size=55&pause=100&color=FFcc4d&width=870&height=95&lines=Hello%2C+I'm+MUDABBIR+%F0%9F%91%8B" alt="Hey typed effect"/>
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&width=435&lines=Hello+I'm+MUDABBIR" alt="Typing SVG" style="width: 500px;" />
+</a>
 </div>
 
 
