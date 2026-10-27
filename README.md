@@ -36,100 +36,92 @@ INTERESTS    : Fintech • Power BI • Data Analytics
 
 ---
 
-## `02 // ENTREPRENEURSHIP`
+## `02 // BUILD • TEACH • INNOVATE`
 
 <div align="center">
 
-<a href="https://webhostdevs.com">
-<img src="https://img.shields.io/badge/WEBHOSTDEVS-Digital%20Innovation-38BDF8?style=for-the-badge&logo=googlechrome&logoColor=white" alt="WebHostDevs" />
-</a>
+<img src="https://img.shields.io/badge/ENTREPRENEURSHIP-38BDF8?style=flat-square" alt="Entrepreneurship" />
+<img src="https://img.shields.io/badge/EDUCATION-7C3AED?style=flat-square" alt="Education" />
+<img src="https://img.shields.io/badge/DIGITAL%20INNOVATION-10B981?style=flat-square" alt="Digital innovation" />
 
-### WebHostDevs
+### WebHostDevs · Learning Technology · Technical Workshops
 
-**Building digital experiences. Empowering people through technology.**
+*Building digital solutions. Sharing knowledge. Empowering the next generation.*
 
 </div>
 
-WebHostDevs is my startup, focused on web development, UI/UX, digital solutions, training, internships, and mentoring.
+### WebHostDevs — My Entrepreneurial Journey
 
-Through WebHostDevs, I explore how technology can help individuals and organisations establish their digital presence while creating opportunities for people to learn practical skills.
+WebHostDevs is my startup initiative focused on web development, UI/UX design, digital solutions, technical training, and skill development.
 
-**Focus areas**
+My work brings together technology and education, with an emphasis on creating useful digital experiences and helping aspiring developers gain practical knowledge.
 
-- Full-stack web development and digital products
-- UI/UX design and user-centred interfaces
-- Student training, internships, and mentoring
-- Digital learning environments and educational technology
-- Turning ideas into useful web-based solutions
+- **Web Development:** Exploring and building modern web-based solutions.
+- **UI/UX Design:** Creating intuitive, accessible, and user-focused digital experiences.
+- **Technical Training:** Sharing knowledge and supporting practical skills development.
+- **Educational Technology:** Exploring how digital platforms can make learning more accessible.
+
+### My Own Learning Management System
+
+As an extension of my interest in educational technology, I have my own Learning Management System (LMS) under WebHostDevs.
+
+This initiative reflects my interest in bringing software development and digital education together through an online learning environment. My experience with Canvas LMS has further developed my understanding of learning platforms and technology-supported education.
+
+### Technical Workshops & Knowledge Sharing
+
+I have delivered **multiple technical workshops at Sreenidhi Institute of Science and Technology (SNIST)**, sharing practical knowledge with students and helping them explore the fundamentals of modern web design and development.
 
 <div align="center">
 
-<a href="https://webhostdevs.com">Website</a> · <a href="https://class.webhostdevs.com">Learning Management System</a>
+<table>
+<tr>
+<td align="center" width="33%">
+
+<strong>350+</strong>
+
+<br/>
+
+Students Reached
+
+</td>
+<td align="center" width="33%">
+
+<strong>Multiple</strong>
+
+<br/>
+
+Technical Workshops
+
+</td>
+<td align="center" width="33%">
+
+<strong>Hands-on</strong>
+
+<br/>
+
+Practical Learning
+
+</td>
+</tr>
+</table>
 
 </div>
+
+**Workshop topics included:**
+
+- UI/UX design principles and user-centred thinking
+- Frontend development with HTML and CSS
+- Responsive design and Bootstrap
+- Interface prototyping and Figma
+
+Invited as a resource person alongside Siddesh by HOD Aruna Varanasi, I contributed to a six-day UI/UX design and frontend development workshop. These experiences strengthened my interest in technical mentoring, collaborative learning, and helping students turn ideas into practical digital experiences.
+
+For me, building technology and sharing knowledge go hand in hand. Whether developing digital platforms or conducting workshops, my focus is on creating opportunities to learn, experiment, and grow.
+
 
 ---
 
-## `03 // MY OWN LMS`
-
-<div align="center">
-
-<a href="https://class.webhostdevs.com">
-<img src="https://img.shields.io/badge/WEBHOSTDEVS-LEARNING%20PLATFORM-7C3AED?style=for-the-badge&logo=bookstack&logoColor=white" alt="WebHostDevs LMS" />
-</a>
-
-# Digital Learning, Built with Purpose
-
-**My learning management platform:** [class.webhostdevs.com](https://class.webhostdevs.com)
-
-</div>
-
-As part of my work with WebHostDevs, I have my own LMS platform, bringing my interests in web development and digital education together.
-
-My experience with Canvas LMS has also helped shape my interest in learning management systems and the digital environments that support teaching, training, and student development.
-
-| Area | Focus |
-|---|---|
-| Learning technology | Online learning environments |
-| Digital education | Technology-supported learning experiences |
-| Platform development | Web-based educational solutions |
-| Skills development | Training and learning opportunities |
-
-Explore the platform: **[class.webhostdevs.com](https://class.webhostdevs.com)**
-
----
-
-## `04 // KNOWLEDGE SHARED — SNIST`
-
-<div align="center">
-
-<img src="https://img.shields.io/badge/SNIST-UI%2FUX%20WORKSHOP-0EA5E9?style=for-the-badge" alt="SNIST workshop" />
-
-### From Learning to Teaching
-
-**6-Day UI/UX Design & Frontend Workshop**
-
-</div>
-
-At Sreenidhi Institute of Science and Technology (SNIST), I was invited alongside Siddesh by **HOD Aruna Varanasi** to serve as a resource person for a six-day workshop.
-
-The workshop introduced students to UI/UX design and the foundations of frontend development, combining design concepts with practical tools and technologies.
-
-**Workshop highlights**
-
-- **Duration:** Six days
-- **Audience:** 70+ students
-- **Topics:** UI/UX design, HTML, CSS, Bootstrap, and Figma
-- **Role:** Resource person and technical workshop facilitator
-- **Outcome:** Received excellent feedback from participating students
-
-This experience strengthened my interest in sharing technical knowledge, helping students develop practical skills, and making technology more accessible through hands-on learning.
-
-For me, technology becomes more valuable when knowledge is shared and others are empowered to build something of their own.
-
----
-
-## `05 // TECHNOLOGY STACK`
+## `03 // TECHNOLOGY STACK`
 
 <div align="center">
 
@@ -156,7 +148,7 @@ For me, technology becomes more valuable when knowledge is shared and others are
 
 ---
 
-## `06 // WHAT I'M EXPLORING`
+## `04 // WHAT I'M EXPLORING`
 
 <table>
 <tr>
@@ -195,7 +187,7 @@ Exploring Canvas LMS, my own LMS platform, digital learning, and technology-enab
 
 ---
 
-## `07 // CURRENT CHAPTER`
+## `05 // CURRENT CHAPTER`
 
 **Anglia Ruskin University · United Kingdom**
 
@@ -207,7 +199,7 @@ My current priorities include strengthening my analytical capabilities, explorin
 
 ---
 
-## `08 // GITHUB ANALYTICS`
+## `06 // GITHUB ANALYTICS`
 
 <div align="center">
 
@@ -227,7 +219,7 @@ My current priorities include strengthening my analytical capabilities, explorin
 
 ---
 
-## `09 // LET'S CONNECT`
+## `07 // LET'S CONNECT`
 
 <div align="center">
 
