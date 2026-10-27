@@ -114,7 +114,7 @@ Practical Learning
 - Responsive design and Bootstrap
 - Interface prototyping and Figma
 
-Invited as a resource person alongside Siddesh by HOD Aruna Varanasi, I contributed to a six-day UI/UX design and frontend development workshop. These experiences strengthened my interest in technical mentoring, collaborative learning, and helping students turn ideas into practical digital experiences.
+Invited as a resource person alongside <a href="https://www.linkedin.com/in/siddesh7077/" target="_blank">Siddesh</a> by HOD Aruna Varanasi, I contributed to a six-day UI/UX design and frontend development workshop. These experiences strengthened my interest in technical mentoring, collaborative learning, and helping students turn ideas into practical digital experiences.
 
 For me, building technology and sharing knowledge go hand in hand. Whether developing digital platforms or conducting workshops, my focus is on creating opportunities to learn, experiment, and grow.
 
