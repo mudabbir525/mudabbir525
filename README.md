@@ -1,170 +1,200 @@
-# MUDABBIR PASHA MOHAMMED
+<!--
+  MUDABBIR PASHA MOHAMMED | GITHUB PROFILE
+  Design: Midnight / Electric Blue / Data Intelligence
+-->
 
 <div align="center">
 
-<img src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" width="280" alt="Developer animation" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=220&color=0:070B16,45:102A43,100:0077B6&text=MUDABBIR%20PASHA%20MOHAMMED&fontSize=32&fontColor=FFFFFF&fontAlignY=38&desc=SOFTWARE%20%E2%80%A2%20DATA%20%E2%80%A2%20FINTECH&descSize=13&descAlignY=58&animation=fadeIn" alt="Profile banner" />
 
-# Hey, I'm Mudabbir (Sohail)
-
-### Fintech & Data Analytics | Software Development | Digital Innovation
-
-*Building at the intersection of technology, data, and business.*
-
-<a href="https://www.linkedin.com/in/mohammed-mudabbir-pasha/">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-</a>
-<a href="mailto:sohailmudabbir@gmail.com">
-  <img src="https://img.shields.io/badge/Email-Get%20in%20Touch-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
-</a>
 <a href="https://github.com/mudabbir525">
-  <img src="https://img.shields.io/badge/GitHub-Explore%20My%20Work-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=500&size=17&duration=3000&pause=900&color=38BDF8&center=true&vCenter=true&width=650&height=60&lines=Hello%2C+I'm+Mudabbir+%28Sohail%29;Fintech+%26+Data+Analytics+MBA+Student;Turning+Data+Into+Insights;Exploring+Technology+That+Matters" alt="Animated introduction" />
 </a>
+
+<br/>
+
+<a href="https://www.linkedin.com/in/mohammed-mudabbir-pasha/"><img src="https://img.shields.io/badge/LINKEDIN-0B66C3?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+<a href="mailto:sohailmudabbir@gmail.com"><img src="https://img.shields.io/badge/EMAIL-111827?style=for-the-badge&logo=gmail&logoColor=EA4335" alt="Email" /></a>
+<a href="https://github.com/mudabbir525?tab=repositories"><img src="https://img.shields.io/badge/PROJECTS-111827?style=for-the-badge&logo=github&logoColor=white" alt="Projects" /></a>
 
 </div>
 
 ---
 
-## `$ whoami`
+## `01 / SYSTEM PROFILE`
 
-I'm a technology enthusiast with an interest in software development, data analytics, fintech, and building digital solutions that solve real-world problems.
+```text
+NAME       :: Mudabbir Pasha Mohammed
+ALIAS      :: Sohail
+LOCATION   :: United Kingdom
+EDUCATION  :: MBA — Fintech & Data Analytics
+UNIVERSITY :: Anglia Ruskin University
+ROLE       :: Student Engagement & Events Project Administrator
+INTERESTS  :: Software | Data | Finance | Digital Education
+MINDSET    :: Learn → Build → Analyse → Improve
+```
 
-Currently based in the **United Kingdom**, I'm pursuing an **MBA in Fintech and Data Analytics at Anglia Ruskin University (ARU)** while gaining professional experience through a placement with the Faculty of Business & Law's Student Experience team.
+I'm interested in how technology, data, and business intersect to solve practical problems. My background combines software development interests with postgraduate study in fintech and data analytics, alongside professional experience in higher education.
 
-My journey brings together technology, business, data, and student engagement. I'm interested in how software, analytics, and emerging technologies can improve the way people work, make decisions, and interact with digital products.
+I enjoy exploring digital products, analytical tools, web technologies, and the systems that help people make better decisions.
 
-- 🎓 **Education:** MBA in Fintech and Data Analytics — Anglia Ruskin University
-- 💼 **Current role:** Student Engagement & Events Project Administrator — ARU
-- 🌍 **Based in:** United Kingdom
-- 💻 **Interests:** Software engineering, data analytics, fintech, and AI
-- 🚀 **Focus:** Developing practical projects and expanding my technical capabilities
-- 📬 **Contact:** [sohailmudabbir@gmail.com](mailto:sohailmudabbir@gmail.com)
+My goal is to keep developing practical technical skills while understanding the business problems those skills can solve.
 
 ---
 
-## `// tech_stack`
-
-Technologies and tools I've explored across software development, data, and machine learning.
+## `02 / TECHNOLOGY MATRIX`
 
 <div align="center">
 
-### Web Development
+### DEVELOPMENT
 
-<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,threejs" alt="Web development technologies" />
+<img src="https://skillicons.dev/icons?i=html,css,js,react,nodejs,express,mongodb,bootstrap,threejs&perline=5" alt="Web development technology icons" />
 
-### Programming & Data
+### DATA, INTELLIGENCE & MACHINE LEARNING
 
-<img src="https://skillicons.dev/icons?i=python,tensorflow" alt="Python and TensorFlow" />
+<a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=111111" alt="Power BI" /></a>
+<img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+<img src="https://img.shields.io/badge/TensorFlow.js-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow.js" />
 
-### Tools & Platforms
+### DIGITAL EDUCATION & LEARNING PLATFORMS
 
-<img src="https://skillicons.dev/icons?i=git,github,vscode,linux" alt="Development tools" />
+<a href="https://www.instructure.com/canvas"><img src="https://img.shields.io/badge/Canvas%20LMS-E13C26?style=for-the-badge&logo=canvas&logoColor=white" alt="Canvas LMS" /></a>
+
+### DEVELOPMENT TOOLS
+
+<img src="https://skillicons.dev/icons?i=git,github,vscode,linux&perline=4" alt="Development tools" />
 
 </div>
 
-**Areas of interest**
-
-- Full-stack web application development
-- Data analysis, preprocessing, and visualisation
-- Fintech, digital innovation, and business analytics
-- Machine learning and AI-powered applications
-- Responsive UI development and user experience
+| Domain | Areas of interest |
+|---|---|
+| Software engineering | Web applications, frontend interfaces, backend development |
+| Business intelligence | Power BI, data visualisation, dashboards, reporting |
+| Data analytics | Data preprocessing, interpretation, analytical thinking |
+| Fintech | Financial technology, digital transformation, data-driven decisions |
+| Digital education | Canvas LMS, virtual learning environments, educational technology |
+| Machine learning | TensorFlow.js, intelligent applications, experimentation |
 
 ---
 
-## `// what_im_working_towards`
+## `03 / THE INTERSECTION`
+
+<div align="center">
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 💻 Software Engineering
+### `01 — BUILD`
 
-Exploring full-stack development, application architecture, responsive interfaces, and practical ways to build maintainable software.
+**Software & Digital Products**
+
+Exploring web applications, interactive interfaces, and solutions that connect functionality with user experience.
 
 </td>
 <td width="50%" valign="top">
 
-### 📊 Data & Analytics
+### `02 — UNDERSTAND`
 
-Developing my understanding of analytical methods, data processing, and how insights can support better business decisions.
+**Data & Business Intelligence**
+
+Using analytical thinking and Power BI to explore how data can become useful information, reports, and visual insights.
 
 </td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-### 💳 Fintech & Innovation
+### `03 — INNOVATE`
 
-Exploring the intersection of financial technology, digital transformation, and data-driven business models.
+**Fintech & Intelligent Systems**
+
+Studying the relationship between financial services, emerging technologies, analytics, and digital innovation.
 
 </td>
 <td width="50%" valign="top">
 
-### 🤖 AI & Machine Learning
+### `04 — ENABLE`
 
-Building on my interest in machine learning and intelligent applications, with a focus on practical use cases.
+**Education Technology**
+
+Building on my experience with Canvas LMS and higher education to understand digital learning environments and student experience.
 
 </td>
 </tr>
 </table>
 
+</div>
+
 ---
 
-## `// github_analytics`
+## `04 / CURRENT CHAPTER`
+
+**Anglia Ruskin University · United Kingdom**
+
+I'm currently pursuing an MBA in Fintech and Data Analytics and working as a Student Engagement & Events Project Administrator with ARU's Faculty of Business & Law Student Experience team.
+
+This combination lets me develop both analytical and professional skills while gaining exposure to the coordination and delivery of university projects and events.
+
+**My current development priorities:**
+
+- Strengthening my understanding of data analytics and business intelligence.
+- Exploring Power BI for reporting and data visualisation.
+- Continuing to develop software engineering skills through practical projects.
+- Learning more about fintech, digital transformation, and data-led decision-making.
+- Building on my knowledge of Canvas LMS and digital education.
+
+---
+
+## `05 / GITHUB TELEMETRY`
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=mudabbir525&show_icons=true&hide_border=true&rank_icon=github&theme=transparent" alt="GitHub profile statistics" />
+<a href="https://github.com/mudabbir525">
+  <img height="175" src="https://github-readme-stats.vercel.app/api?username=mudabbir525&show_icons=true&hide_border=true&rank_icon=github&theme=tokyonight&bg_color=070B16&title_color=38BDF8&icon_color=38BDF8&text_color=D1D5DB" alt="GitHub overview" />
+</a>
+<a href="https://github.com/mudabbir525">
+  <img height="175" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudabbir525&layout=compact&hide_border=true&theme=tokyonight&bg_color=070B16&title_color=38BDF8&text_color=D1D5DB" alt="Most-used languages" />
+</a>
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mudabbir525&layout=compact&hide_border=true&theme=transparent" alt="Most-used programming languages" />
+<br/>
 
-<img src="https://streak-stats.demolab.com?user=mudabbir525&hide_border=true&theme=transparent" alt="GitHub contribution streak" />
+<img width="90%" src="https://streak-stats.demolab.com?user=mudabbir525&theme=tokyonight&hide_border=true&background=070B16&ring=38BDF8&fire=38BDF8&currStreakLabel=38BDF8" alt="GitHub contribution streak" />
+
+<br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mudabbir525&bg_color=070B16&color=D1D5DB&line=38BDF8&point=FFFFFF&area=true&hide_border=true" alt="GitHub contribution activity graph" />
 
 </div>
 
 ---
 
-## `// explore_my_work`
+## `06 / BEYOND THE CODE`
 
-Interested in what I'm building or exploring? Browse my repositories and development activity.
+I value continuous learning, clear communication, and the ability to connect technical work with real-world needs.
 
-<div align="center">
+Working in a university environment has also strengthened my interest in project coordination, student engagement, events, and the digital tools that support education.
 
-<a href="https://github.com/mudabbir525?tab=repositories">
-  <img src="https://img.shields.io/badge/Repositories-Explore%20Projects-181717?style=for-the-badge&logo=github" alt="Explore repositories" />
-</a>
-<a href="https://github.com/mudabbir525?tab=activity">
-  <img src="https://img.shields.io/badge/Activity-View%20Contributions-238636?style=for-the-badge&logo=github" alt="View GitHub activity" />
-</a>
-
-</div>
+I see technology as more than writing code: it's about understanding a problem, working with information, designing a solution, and making that solution useful.
 
 ---
 
-## `// beyond_the_code`
-
-I believe professional growth comes from combining technical skills with communication, collaboration, and a willingness to keep learning.
-
-My experience in university project administration complements my technical interests by exposing me to coordination, event planning, stakeholder communication, and the operational side of delivering projects.
-
-I'm continuing to explore opportunities to connect technology and analytical thinking with meaningful, real-world outcomes.
-
----
-
-## `// let's_connect`
-
-Have an interesting project, a technical idea, or an opportunity to collaborate? Feel free to connect.
+## `07 / OPEN CONNECTION`
 
 <div align="center">
 
-**Let's build something meaningful.**
+### Have an idea worth building?
 
-<a href="https://www.linkedin.com/in/mohammed-mudabbir-pasha/">LinkedIn</a> ·
-<a href="mailto:sohailmudabbir@gmail.com">Email</a> ·
-<a href="https://github.com/mudabbir525">GitHub</a>
+I'm interested in connecting with people working across software development, business intelligence, fintech, analytics, and educational technology.
 
-<br />
+<a href="https://www.linkedin.com/in/mohammed-mudabbir-pasha/"><img src="https://img.shields.io/badge/CONNECT_ON_LINKEDIN-38BDF8?style=for-the-badge&logo=linkedin&logoColor=07111F" alt="Connect on LinkedIn" /></a>
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0F2027,50:203A43,100:2C5364&height=100&section=footer" width="100%" alt="Decorative footer" />
+<a href="mailto:sohailmudabbir@gmail.com"><img src="https://img.shields.io/badge/START_A_CONVERSATION-1F2937?style=for-the-badge&logo=gmail&logoColor=FFFFFF" alt="Send email" /></a>
+
+<br/><br/>
+
+*Curiosity is the starting point. Building is the next step.*
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0077B6,55:102A43,100:070B16&height=120&section=footer" alt="Profile footer" />
 
 </div>
